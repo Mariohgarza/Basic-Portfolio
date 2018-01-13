@@ -18,7 +18,6 @@
 }
 
 
-
 .bodcolor {
 	background-color:#ddd;
 	
@@ -35,7 +34,7 @@
 	margin:auto;
 	margin-bottom:0px;
 	margin-right:500px;
-    
+   
 }
 
 .pd {
@@ -52,7 +51,6 @@
 	padding-right:20px;
 
 }
-
 
 #content1 {
 	background:white;
@@ -270,6 +268,7 @@ padding: 30px 30px 30px 30px;
 	position:relative;
 	display:inline-block;
 }
+
 
 .name {
 	background-color:#4aaaa5;
