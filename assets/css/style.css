@@ -16,7 +16,7 @@
 	margin:left 0;
 	 color:grey;
 	float:left;
-	height:100%;
+	position:relative;
 
 }
 
@@ -317,7 +317,7 @@ border-radius:50px;
 	text-align:center;
 	border-top :8px solid #4aaaa5;
 	padding-bottom:35px;
-	height: 60px;
+	height: 40px;
 
 }
 .backcolor {
@@ -369,14 +369,20 @@ input[type=text], select {
 	display:block;
 	padding-left:80px;
 	padding-right:20px;
+	height:100%;
 }
 .bodCol1 {
 	background-image:url("/Users/mari-0/Desktop/bootcamp_stuff/homework/Basic-Portfolio/assets/images/tech.jpg"); 
 }
-.imgStyle {
-	font-size:20px;
-	color:white;
-	text-align:center;
-	
+.gallery {
+    border: 1px solid #ccc;
+    float: left;
+    width: 200px;
 }
-
+.desc {
+    padding: 5px;
+    text-align: center;
+    color:white;
+    font-size:20px;
+    background-color:#4aaaa5;
+}
